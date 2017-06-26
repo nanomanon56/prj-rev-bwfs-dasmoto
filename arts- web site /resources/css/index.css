@@ -1,0 +1,17 @@
+h1{
+
+  font-family:Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color:khaki;
+  text-align:center;
+}
+
+.price{
+  color: blue;
+  font-weight: bold;
+}
+
+w3-container {
+  color: blue
+}
